@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    align-items: center;
+}
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+.header .logo{
+    max-height: 32px;
+    filter: invert(1);
+}
+.header .tile-group{
+    padding-left: 25px;
+}
+.header .tile-group i{
+    padding-right: 5px;
+}
